@@ -1,0 +1,10 @@
+FileName, CommitSha
+SLA Reporting Mail Report/azuredeploy.json,19f14b9b7a4f87ac9f916d64b94332808ab2b145
+CISA Known Vulnerabilities Catalog Notifications/azuredeploy.json,330ef0c739aa8d62e44651b9d96998ddd342d8ab
+Inbound Device Connections/azuredeploy.json,5b062940d151218705c0f412a3ffe601bdd02671
+KQL for Logic Apps/azuredeploy.json,e2294fb30f77c290f16ea7eba32f957197782a57
+Device Enrichment/azuredeploy.json,e61209ceb4a0333b43db878116509879db89f3cc
+Report New Actions/azuredeploy.json,065ba8f3cc100768559265d542eb11724e86f40a
+CISA-KEV-Weekly-Report/azuredeploy.json,8a0c2744398789cb267bfce9082972205d47822d
+Inbound Device Connections/all_azuredeploy.json,8205764bb6072f70cd0caffc164a3b98ae998af0
+
